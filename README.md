@@ -11,7 +11,6 @@ As tarefas são armazenadas em arquivo `.txt`, garantindo persistência mesmo ap
 - **Listar todas as tarefas**  
 - **Listar tarefa pelo índice**  
 - **Remover tarefa pelo índice**  
-- **Persistência em arquivo (`tarefas.txt`)**
 
 ---
 
